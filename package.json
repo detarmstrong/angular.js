@@ -1,6 +1,7 @@
 {
   "name": "angularjs",
   "branchVersion": "1.2.*",
+  "version": "1.2.31",
   "distTag": "ie8_compat",
   "repository": {
     "type": "git",
